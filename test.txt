@@ -1,0 +1,7 @@
+pipeline jenkins 
+newitem - pipielinefirst one(name he deyach) -select pipeline - ok - description - advance projrct optn - script -hello world- apply -save -buildnow-select-consoleo/p
+///selenium
+dashborad - manage jenkins-plugins -available plugins-search html,testng,ssh(enable),maven (all install krr),-dashborad-newitem
+click mavenproject-open descriptn-git repo url http...- root-JenkinsDemo2/pom.xml-goal-
+clean install-DxmlFiles=testing.xml-Dbrower=Chrome-Durl=https.//www.google.com/ as it is tak
+console o/p

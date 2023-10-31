@@ -4,4 +4,10 @@ newitem - pipielinefirst one(name he deyach) -select pipeline - ok - description
 dashborad - manage jenkins-plugins -available plugins-search html,testng,ssh(enable),maven (all install krr),-dashborad-newitem
 click mavenproject-open descriptn-git repo url http...- root-JenkinsDemo2/pom.xml-goal-
 clean install-DxmlFiles=testing.xml-Dbrower=Chrome-Durl=https.//www.google.com/ as it is tak
-console o/p
+console o/p build sectn-
+name XML
+coice testing.xml
+tsting1.xml
+descriptn
+apply save
+the ngola and optn --clean install-DxmlFiles=$XML-Dbrowser=$broser-Durl=$URL
